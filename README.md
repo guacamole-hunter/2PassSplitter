@@ -1,4 +1,4 @@
-# RF/Microwave Equipment Calibration Script
+# RF/Microwave Power Sensor Calibration Script for 1 mW (0dBm) range sensors
 
 ## Overview
 This Python script is designed for calibrating RF/Microwave equipment, specifically for power measurements across a range of frequencies. It automates the calibration process using a signal generator and power meter, and calculates the calibration factor as a percentage of Channel A's power relative to Channel B's power.
