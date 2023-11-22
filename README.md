@@ -37,13 +37,5 @@ Contributions to enhance the script or add new features are welcome. Please subm
 ## License
 This project is licensed under [appropriate license type] - see the LICENSE file for details.
 
-## Acknowledgments
-- [Any collaborators or sources of inspiration]
-- [Any institutions or organizations that supported this work]
-
-## Contact
-For any queries or assistance, feel free to contact [Your Name or Contact Information].
-
----
 
 Note: This script is intended for professional use and requires proper understanding of RF/Microwave calibration principles. Please use it responsibly.
